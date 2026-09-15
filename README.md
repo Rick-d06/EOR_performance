@@ -45,7 +45,7 @@ The simulator models fluid flow and displacement efficiency in an oil-bearing re
   $$RF(t) = RF_{\max} \cdot \left(1 - e^{-\lambda t}\right)$$
 
 * **Economic Screening:**
-  Calculates gross project revenue based on benchmark oil price ($\$75/\text{bbl}$), accounting for differential CAPEX and OPEX adders to determine net economic gain over secondary waterflooding.
+  Calculates gross project revenue based on benchmark oil price $75/bbl, accounting for differential CAPEX and OPEX adders to determine net economic gain over secondary waterflooding.
 
 ---
 
